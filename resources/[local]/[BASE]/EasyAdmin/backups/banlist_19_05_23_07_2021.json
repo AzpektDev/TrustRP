@@ -1,0 +1,68 @@
+[
+    {
+        "expire": 1627312532,
+        "identifiers": [
+            "steam:11000013db1908c",
+            "ip:45.155.148.159"
+        ],
+        "banner": "Szvmek",
+        "reason": "troll ( Gracz: Boxalu ), Zablokowany przez: Szvmek",
+        "banid": 1,
+        "name": "Boxalu"
+    },
+    {
+        "expire": 1627141200,
+        "identifiers": [
+            "steam:110000144b9c052",
+            "ip:45.85.184.88"
+        ],
+        "banner": "Ravexiik",
+        "reason": "CL ( Gracz: Marvi ), Zablokowany przez: Ravexiik",
+        "banid": 2,
+        "name": "Marvi"
+    },
+    {
+        "expire": 1627314105,
+        "identifiers": [
+            "steam:110000141320e17",
+            "ip:91.123.188.203"
+        ],
+        "banner": "Ravexiik",
+        "reason": "CL+ lootrp ( Gracz: Zimowy arbuz ), Zablokowany przez: Ravexiik",
+        "banid": 3,
+        "name": "Zimowy arbuz"
+    },
+    {
+        "expire": 1627141436,
+        "identifiers": [
+            "steam:110000140fb3efb",
+            "ip:37.30.33.66"
+        ],
+        "banner": "Ravexiik",
+        "reason": "RDM ( Gracz: Departly ), Zablokowany przez: Ravexiik",
+        "banid": 4,
+        "name": "Departly"
+    },
+    {
+        "expire": 1627077008,
+        "identifiers": [
+            "steam:110000111b58a71",
+            "ip:89.228.157.55"
+        ],
+        "banner": "Ravexiik",
+        "reason": "Wyjście z roli ( Gracz: Alani[K] ), Zablokowany przez: Ravexiik",
+        "banid": 5,
+        "name": "Alani[K]"
+    },
+    {
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:11000014277aaf0",
+            "ip:89.64.36.141"
+        ],
+        "banner": "Szvmek",
+        "reason": ". ( Gracz: henryk srakulec ), Zablokowany przez: Szvmek",
+        "banid": 6,
+        "name": "henryk srakulec"
+    }
+]

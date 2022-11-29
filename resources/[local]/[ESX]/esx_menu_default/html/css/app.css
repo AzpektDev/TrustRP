@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+*::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+ 
+*::-webkit-scrollbar-thumb {
+  background: #000;
+  border-radius: 1px;
+}
+
+*::-webkit-scrollbar-track {
+  background-image: repeating-linear-gradient(to bottom, rgb(0, 119, 255), rgb(0, 255, 242));
+
+  /*background: #2abde9;*/
+  border-bottom-right-radius: 1px;
+}
+.menu {
+  font-family: 'Rajdhani', sans-serif;
+  min-width  : 250px;
+  color      : #fff;
+  /*box-shadow : 0px 0px 10px 0px #000;*/
+  position   : absolute;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.menu.align-left {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-top-left {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-top {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-top-right {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-right {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-bottom-right {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-bottom {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-bottom-left {
+  right : 40;
+  bottom: 40;
+}
+
+.menu.align-center {
+  right : 40;
+  bottom: 40;
+}
+
+.menu .head {
+  /*background-color: #2abde9;*/
+  background-color: #0f0c0cb7; 
+  background-size: 200% 200%;
+  background-position: 100% 100%;
+  text-align      : center;
+  height          : 31px;
+  line-height     : 31px;
+  border-radius: 3px;
+  margin-bottom: 3%;
+  border        : 1px solid;
+  border-image-source  : linear-gradient(45deg, rgb(247, 6, 175), rgb(255, 0, 191));
+  border-image-slice   : 1;
+}
+
+.menu .menu-items {
+  max-height   : 500px;
+  overflow-y   : auto;
+  border-radius: 3px;
+}
+
+.menu .menu-items .menu-item {
+  height          : 27px;
+  display         : block;
+  background-color: #0f0c0cb7; 
+  line-height     : 27px;
+  color           : #ffffff;
+  text-align      : center;
+  padding-left    : 3px;
+  padding-right   : 3px;
+}
+
+.menu .menu-items .menu-item.selected {
+ /* background-image: repeating-linear-gradient(to right, rgb(0, 242, 40, 0.9), rgb(18,105,202,0.9)); */
+  color           : #ffffff;
+  text-align      : center;
+  /*border-bottom   : 1px solid #2abde9;*/
+  border        : 1px solid;
+  border-image-source  : linear-gradient(45deg, rgb(255, 0, 157), rgb(255, 0, 191));
+  border-image-slice   : 1;
+}
+
+.menu .menu-items .menu-item.selected input {
+  background-color: transparent;
+  color           : #ffffff;
+  text-align      : center;
+  border          : none;
+  outline         : none;
+  width           : 20px;
+}

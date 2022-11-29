@@ -1,0 +1,255 @@
+[
+    {
+        "name": "PumBA",
+        "identifiers": [
+            "steam:110000114b9b466",
+            "ip:185.233.26.99"
+        ],
+        "expire": 1627834368,
+        "reason": "CL+Loot RP  ( Gracz: PumBA ), Zablokowany przez: Lysy",
+        "banid": 2,
+        "banner": "Lysy"
+    },
+    {
+        "name": "szczupak.cevilo.",
+        "identifiers": [
+            "steam:1100001448c368e",
+            "ip:77.252.63.83"
+        ],
+        "banner": "yebunny",
+        "banid": 3,
+        "reason": "vdm ( Gracz: szczupak.cevilo. ), Zablokowany przez: yebunny",
+        "expire": 1627488865
+    },
+    {
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:110000134f6c7dc",
+            "ip:93.105.178.215"
+        ],
+        "name": "tony",
+        "reason": "troll ( Gracz: tony ), Zablokowany przez: yebunny",
+        "banid": 4,
+        "banner": "yebunny"
+    },
+    {
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:1100001453a4e4d",
+            "ip:37.30.48.221"
+        ],
+        "banner": "yebunny",
+        "banid": 5,
+        "reason": "troll ( Gracz: requ ), Zablokowany przez: yebunny",
+        "name": "requ"
+    },
+    {
+        "name": "fifarafa",
+        "identifiers": [
+            "steam:1100001120095f0",
+            "ip:5.173.165.181"
+        ],
+        "banner": "yebunny",
+        "banid": 7,
+        "reason": "troll ( Gracz: fifarafa ), Zablokowany przez: yebunny",
+        "expire": 10444633200
+    },
+    {
+        "expire": 1627490087,
+        "identifiers": [
+            "steam:110000146dc57d3",
+            "ip:83.145.151.21"
+        ],
+        "name": "toxicTM",
+        "reason": "vdm ( Gracz: toxicTM ), Zablokowany przez: yebunny",
+        "banid": 8,
+        "banner": "yebunny"
+    },
+    {
+        "expire": 1627836243,
+        "identifiers": [
+            "steam:110000112004206",
+            "ip:89.64.121.10"
+        ],
+        "banner": "yebunny",
+        "banid": 9,
+        "reason": "rdm + trash talk ( Gracz: xSowiQQQ ), Zablokowany przez: yebunny",
+        "name": "xSowiQQQ"
+    },
+    {
+        "name": "wujaszek kuba",
+        "identifiers": [
+            "steam:1100001437955a4",
+            "ip:83.24.83.151"
+        ],
+        "expire": 1627836474,
+        "reason": "rdm na gz ( Gracz: wujaszek kuba ), Zablokowany przez: yebunny",
+        "banid": 10,
+        "banner": "yebunny"
+    },
+    {
+        "name": "kacper2344",
+        "identifiers": [
+            "steam:110000140bd31bd",
+            "ip:195.238.168.5"
+        ],
+        "banner": "ItsMe",
+        "banid": 11,
+        "reason": "CL ( Gracz: kacper2344 ), Zablokowany przez: ItsMe",
+        "expire": 1627404643
+    },
+    {
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:11000010c39eb2d",
+            "ip:195.177.85.209"
+        ],
+        "name": "mEN KeyDrop.com",
+        "reason": "Troll ( Gracz: mEN KeyDrop.com ), Zablokowany przez: ItsMe",
+        "banid": 12,
+        "banner": "ItsMe"
+    },
+    {
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:1100001320bd14f",
+            "ip:89.64.20.65"
+        ],
+        "banner": "yebunny",
+        "banid": 13,
+        "reason": "troll ( Gracz: zborek ), Zablokowany przez: yebunny",
+        "name": "zborek"
+    },
+    {
+        "name": "bn vBETG4RTFHETHET",
+        "identifiers": [
+            "steam:11000010a6fcdb7",
+            "ip:83.28.237.223"
+        ],
+        "expire": 1627578246,
+        "reason": "LootRP ( Gracz: bn vBETG4RTFHETHET ), Zablokowany przez: ItsMe",
+        "banid": 14,
+        "banner": "ItsMe"
+    },
+    {
+        "name": "Skaziak",
+        "identifiers": [
+            "steam:1100001493344e4",
+            "ip:95.90.208.180"
+        ],
+        "banner": "ItsMe",
+        "banid": 15,
+        "reason": "Wykorzystywanie mechaniki gry ( Gracz: Skaziak ), Zablokowany przez: ItsMe",
+        "expire": 1627492268
+    },
+    {
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:11000011972a3d6",
+            "ip:185.21.87.148"
+        ],
+        "name": "wersowww",
+        "reason": "Troll ( Gracz: wersowww ), Zablokowany przez: ItsMe",
+        "banid": 16,
+        "banner": "ItsMe"
+    },
+    {
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:11000011c00e709",
+            "ip:194.31.40.3"
+        ],
+        "banner": "pidar12",
+        "banid": 17,
+        "reason": " elo ( Gracz: Lucky LuKe ), Zablokowany przez: pidar12",
+        "name": "Lucky LuKe"
+    },
+    {
+        "name": "Szum",
+        "identifiers": [
+            "steam:11000013d64d530",
+            "ip:83.28.243.132"
+        ],
+        "expire": 10444633200,
+        "reason": "Nie określono przyczyny ( Gracz: Szum ), Zablokowany przez: Kwiatek",
+        "banid": 18,
+        "banner": "Kwiatek"
+    },
+    {
+        "name": "Maszajso",
+        "identifiers": [
+            "steam:11000011524a427",
+            "ip:83.5.133.167"
+        ],
+        "banner": "ItsMe",
+        "banid": 19,
+        "reason": "Chamskie lootrp ( Gracz: Maszajso ), Zablokowany przez: ItsMe",
+        "expire": 1627582568
+    },
+    {
+        "expire": 1627842086,
+        "identifiers": [
+            "steam:11000013ec0d2b5",
+            "ip:89.64.33.4"
+        ],
+        "name": "KaRi",
+        "reason": "Wykorzystywanie mechaniki, Proba LootRP, Wyjscie z roli ( Gracz: KaRi ), Zablokowany przez: ItsMe",
+        "banid": 20,
+        "banner": "ItsMe"
+    },
+    {
+        "expire": 1627410492,
+        "identifiers": [
+            "steam:110000144ec51ce",
+            "ip:194.4.63.44"
+        ],
+        "banner": "pidar12",
+        "banid": 21,
+        "reason": "Naduzywanie permisji ( Gracz: CarsoNPL ), Zablokowany przez: pidar12",
+        "name": "CarsoNPL"
+    },
+    {
+        "name": "Auiliq",
+        "identifiers": [
+            "steam:1100001378e82d9",
+            "ip:80.49.157.22"
+        ],
+        "expire": 10444633200,
+        "reason": " ( Gracz: Auiliq ), Zablokowany przez: pidar12",
+        "banid": 22,
+        "banner": "pidar12"
+    },
+    {
+        "name": "Bombeluś",
+        "identifiers": [
+            "steam:11000011583ffc0",
+            "ip:79.135.172.61"
+        ],
+        "banner": "yebunny",
+        "banid": 23,
+        "reason": "cl ( Gracz: Bombeluś ), Zablokowany przez: yebunny",
+        "expire": 1627497870
+    },
+    {
+        "expire": 1627497893,
+        "identifiers": [
+            "steam:11000010f3ce630",
+            "ip:89.151.45.137"
+        ],
+        "name": "Maneko",
+        "reason": "cl ( Gracz: Maneko ), Zablokowany przez: yebunny",
+        "banid": 24,
+        "banner": "yebunny"
+    },
+    {
+        "expire": 1627497926,
+        "identifiers": [
+            "steam:11000013d39d4c7",
+            "ip:83.31.64.155"
+        ],
+        "banner": "yebunny",
+        "banid": 25,
+        "reason": "cl ( Gracz: stevku ), Zablokowany przez: yebunny",
+        "name": "stevku"
+    }
+]

@@ -1,0 +1,122 @@
+<html>
+    
+    <head>    
+        <meta charset="utf-8"/>
+        <link type="text/css" rel="stylesheet" href="css/icomoon.css"/>        
+        <link type="text/css" rel="stylesheet" href="css/index.css"/>
+        <link type="text/css" rel="stylesheet" href="css/colors.css"/>
+		<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    </head>
+
+    <body>
+		<div id="backgroundv"></div>
+		<script>
+		  var tag = document.createElement('script');
+		  tag.src = "https://www.youtube.com/iframe_api";
+
+		  var firstScriptTag = document.getElementsByTagName('script')[0];
+		  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+		  var player;
+		  function onYouTubeIframeAPIReady() {
+			player = new YT.Player('backgroundv', {
+			  height: '100%',
+			  width: '100%',
+			  videoId: 'kk_3m0lTseE',
+			  playerVars: {
+			    'autoplay': 1,
+			    'controls': 0,
+			    'disablekb': 1,
+			    'enablejsapi': 1,
+				'loop': 1,
+				'vq': 'highres'
+			  },
+			  events: {
+				'onReady': onStart,
+				'onStateChange': onState,
+				'onError': onError
+			  }
+			});
+		  }
+
+		  function onStart(event) {
+			event.target.setVolume(50);
+			event.target.setPlaybackQuality('highres');
+			event.target.playVideo();
+
+			document.getElementById("volumeSlider").setAttribute("value", 50);
+			document.getElementById("volumeSlider").addEventListener("input", onVolume, false);
+
+			document.getElementById("music-info").style.display = 'block';
+			document.getElementById("now-playing").style.display = 'none';
+			document.getElementById("play-button").style.display = 'none';
+			document.getElementById("skip-button").style.display = 'none';
+		  }
+
+		  function onState(event) {
+		    if (event.data == YT.PlayerState.ENDED) {
+			  document.getElementById("backgroundv").style.display = 'none';
+			  document.getElementById("music-info").style.display = 'none';
+			}
+		  }
+
+		  function onError(event) {
+		    document.getElementById("backgroundv").style.display = 'none';
+			document.getElementById("music-info").style.display = 'none';
+		  }
+
+		  function onVolume() {
+		    player.setVolume(document.getElementById("volumeSlider").value - 1);
+		  }
+
+		  window.addEventListener('message', function(event) {
+			if (event.data.ready) {
+				document.getElementById("text-container").style.display = 'none';
+				document.getElementById("bar-container").style.display = 'none';
+			} else if (event.data.allow) {
+				document.getElementById("logo").setAttribute("src", "img/logo-ready.png");
+			}
+		  });
+		</script>
+
+        <img id="background"/>
+        <img id="background2"/>
+
+        <img id="cursor"/>
+        <div id="music-info">
+            <p id="now-playing">Odtwarzane: trwa ładowanie...</p>
+            <div id="play-button" class="icon-button icon-pause2" onclick="OnPlayClick()"></div>
+            <div id="skip-button" class="icon-button icon-next2" onclick="OnSkipClick()"></div>
+            <input type="range" min="1" max="100" id="volumeSlider">
+        </div>
+        
+        <img id="logo"/>
+        <div class="content-container" id="text-container">
+            <span>
+                <p id="message" class="loading-text">&#x1f40c; &#x1f528;</p>
+                <p class="loading-text stick-to-right"><span id="progress-bar-value">0</span>%</p>
+            </span>
+        </div>
+          
+        <div class="content-container" id="bar-container">
+            <progress id="pb0" class="hide" min="0" max="100" value="0"></progress>
+            <progress id="pb1" class="hide" min="0" max="100" value="0"></progress>
+            <progress id="pb2" class="hide" min="0" max="100" value="0"></progress>
+            <progress id="pb3" class="hide" min="0" max="100" value="0"></progress>
+            <progress id="pb4" class="hide" min="0" max="100" value="0"></progress>          
+        </div> 
+
+        <ul id="log"></ul>
+        <div id="player"></div>
+    </body>
+
+    <script src="js/synn.js"></script>    
+    <script src="js/config.js"></script>
+    <script src="js/logger.js"></script>    
+    <script src="js/progressbar-main.js"></script>
+    <script src="js/progressbar-handler.js"></script>
+    <script src="js/progressbar-renderer.js"></script>
+    <!--script src="js/music-handler.js"></script-->
+    <script src="js/music-controls.js"></script>
+    <script src="js/background-handler.js"></script>
+</html>

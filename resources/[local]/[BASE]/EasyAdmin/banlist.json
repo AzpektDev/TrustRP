@@ -1,0 +1,563 @@
+[
+    {
+        "banner": "SzybkiePalce.SIMBA96",
+        "name": "sprosny.gofieku",
+        "reason": " jd ( Gracz: sprosny.gofieku ), Zablokowany przez: SzybkiePalce.SIMBA96",
+        "identifiers": [
+            "steam:1100001456268fe",
+            "ip:217.96.197.48"
+        ],
+        "expire": 10444633200,
+        "banid": 1
+    },
+    {
+        "banner": "Mateush",
+        "name": "sprosny.gofieku",
+        "reason": "Nie określono przyczyny ( Gracz: sprosny.gofieku ), Zablokowany przez: Mateush",
+        "identifiers": [
+            "steam:1100001456268fe",
+            "ip:217.96.197.48"
+        ],
+        "expire": 10444633200,
+        "banid": 2
+    },
+    {
+        "banner": "NiciakowskyyOfficial",
+        "name": "Lajsu",
+        "reason": "FailRP, CL ( Gracz: Lajsu ), Zablokowany przez: NiciakowskyyOfficial",
+        "identifiers": [
+            "steam:110000141e85113",
+            "ip:88.156.137.57"
+        ],
+        "expire": 1629925673,
+        "banid": 3
+    },
+    {
+        "banner": "yebunny",
+        "name": "Szydlox",
+        "reason": "vdm ( Gracz: Szydlox ), Zablokowany przez: yebunny",
+        "identifiers": [
+            "steam:11000013732cbcd",
+            "ip:91.223.64.195"
+        ],
+        "expire": 1629926537,
+        "banid": 5
+    },
+    {
+        "banner": "NiciakowskyyOfficial",
+        "name": "ranga sum",
+        "reason": "VDM + CB ( Gracz: ranga sum ), Zablokowany przez: NiciakowskyyOfficial",
+        "identifiers": [
+            "steam:1100001114a5eb0",
+            "ip:185.21.87.177"
+        ],
+        "expire": 1630013206,
+        "banid": 6
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "Szampon",
+        "reason": "RDM ( Gracz: Szampon ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:11000010ac7c257",
+            "ip:89.229.88.153"
+        ],
+        "expire": 1630273022,
+        "banid": 7
+    },
+    {
+        "banner": "Lysy",
+        "name": "takifajnypies",
+        "reason": "troll ( Gracz: takifajnypies ), Zablokowany przez: Lysy",
+        "identifiers": [
+            "steam:1100001345edd58",
+            "ip:79.135.178.235"
+        ],
+        "expire": 1630273851,
+        "banid": 8
+    },
+    {
+        "banner": "NiciakowskyyOfficial",
+        "name": "Pitatu_",
+        "reason": "troll ( Gracz: Pitatu_ ), Zablokowany przez: NiciakowskyyOfficial",
+        "identifiers": [
+            "steam:1100001186ef921",
+            "ip:185.156.34.146"
+        ],
+        "expire": 10444633200,
+        "banid": 9
+    },
+    {
+        "banner": "Lysy",
+        "name": "1FocuS13",
+        "reason": "troll ( Gracz: 1FocuS13 ), Zablokowany przez: Lysy",
+        "identifiers": [
+            "steam:11000014831d2ae",
+            "ip:37.47.38.66"
+        ],
+        "expire": 1630274608,
+        "banid": 10
+    },
+    {
+        "banner": "NiciakowskyyOfficial",
+        "name": "Narrow",
+        "reason": "WMG ( Gracz: Narrow ), Zablokowany przez: NiciakowskyyOfficial",
+        "identifiers": [
+            "steam:110000116223d09",
+            "ip:77.45.66.3"
+        ],
+        "expire": 1629929193,
+        "banid": 12
+    },
+    {
+        "banner": "yebunny",
+        "name": "Ephrood",
+        "reason": "Nie określono przyczyny ( Gracz: Ephrood ), Zablokowany przez: yebunny",
+        "identifiers": [
+            "steam:11000014182c5d9",
+            "ip:77.182.5.96"
+        ],
+        "expire": 10444633200,
+        "banid": 14
+    },
+    {
+        "banner": "yebunny",
+        "name": ".....JB",
+        "reason": "troll ( Gracz: .....JB ), Zablokowany przez: yebunny",
+        "identifiers": [
+            "steam:1100001034fcf37",
+            "ip:83.24.22.193"
+        ],
+        "expire": 10444633200,
+        "banid": 15
+    },
+    {
+        "banner": "Lysy",
+        "name": "Rewool555",
+        "reason": "cheater ( Gracz: Rewool555 ), Zablokowany przez: Lysy",
+        "identifiers": [
+            "steam:11000013bf3627d",
+            "ip:46.149.154.158"
+        ],
+        "expire": 1632436542,
+        "banid": 16
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "nikker2137",
+        "reason": "Cheaty ( Gracz: nikker2137 ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:110000149faadc6",
+            "ip:81.161.203.181"
+        ],
+        "expire": 10444633200,
+        "banid": 18
+    },
+    {
+        "banner": "Lysy",
+        "name": "overrin",
+        "reason": "troll ( Gracz: overrin ), Zablokowany przez: Lysy",
+        "identifiers": [
+            "steam:110000138f90594",
+            "ip:80.238.88.59"
+        ],
+        "expire": 10444633200,
+        "banid": 19
+    },
+    {
+        "banner": "pidar12",
+        "name": "Marcepano italiano",
+        "reason": " ( Gracz: Marcepano italiano ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:11000014081ac11",
+            "ip:31.130.96.21"
+        ],
+        "expire": 10444633200,
+        "banid": 20
+    },
+    {
+        "banner": "MinionDave",
+        "name": "gdzieopol1232",
+        "reason": "Cheaty ( Gracz: gdzieopol1232 ), Zablokowany przez: MinionDave",
+        "identifiers": [
+            "steam:110000149fbff37",
+            "ip:217.138.206.86"
+        ],
+        "expire": 10444633200,
+        "banid": 21
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "Adam Lolik",
+        "reason": "troll ( Gracz: Adam Lolik ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:110000149b50260",
+            "ip:46.205.205.213"
+        ],
+        "expire": 1630319003,
+        "banid": 22
+    },
+    {
+        "banner": "MinionDave",
+        "name": "750kejp",
+        "reason": "Strzelanie na gz ( Gracz: 750kejp ), Zablokowany przez: MinionDave",
+        "identifiers": [
+            "steam:110000145459da5",
+            "ip:188.208.217.228"
+        ],
+        "expire": 1629974403,
+        "banid": 23
+    },
+    {
+        "banner": "MinionDave",
+        "name": "Mystik",
+        "reason": "Strzelanie na gz, wychodzenie z roli ( Gracz: Mystik ), Zablokowany przez: MinionDave",
+        "identifiers": [
+            "steam:11000013ef08326",
+            "ip:79.110.205.133"
+        ],
+        "expire": 1630060837,
+        "banid": 24
+    },
+    {
+        "banner": "MinionDave",
+        "name": "XversusX",
+        "reason": "Cl ( Gracz: XversusX ), Zablokowany przez: MinionDave",
+        "identifiers": [
+            "steam:11000014191a743",
+            "ip:178.183.157.44"
+        ],
+        "expire": 1629889007,
+        "banid": 25
+    },
+    {
+        "banner": "pidar12",
+        "name": "Sopel",
+        "reason": "cheater ( Gracz: Sopel ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:110000149a80beb",
+            "ip:188.147.1.210"
+        ],
+        "expire": 10444633200,
+        "banid": 26
+    },
+    {
+        "banner": "SzybkiePalce.SIMBA96",
+        "name": "kusz",
+        "reason": " ( Gracz: kusz ), Zablokowany przez: SzybkiePalce.SIMBA96",
+        "identifiers": [
+            "steam:11000011b43ebfe",
+            "ip:109.207.150.23"
+        ],
+        "expire": 10444633200,
+        "banid": 27
+    },
+    {
+        "banner": "Lysy",
+        "name": "kacus to jebana dziwka",
+        "reason": "loot rp ( Gracz: kacus to jebana dziwka ), Zablokowany przez: Lysy",
+        "identifiers": [
+            "steam:11000014840a024",
+            "ip:185.67.8.124"
+        ],
+        "expire": 1629891883,
+        "banid": 30
+    },
+    {
+        "banner": "yebunny",
+        "name": "TOMO",
+        "reason": " ( Gracz: TOMO ), Zablokowany przez: yebunny",
+        "identifiers": [
+            "steam:1100001474e230e",
+            "ip:79.184.166.22"
+        ],
+        "expire": 10444633200,
+        "banid": 31
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "Dr4gon",
+        "reason": "RDM ( Gracz: Dr4gon ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:11000014312bbf1",
+            "ip:185.23.150.37"
+        ],
+        "expire": 1629893247,
+        "banid": 32
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "LIL PATRI",
+        "reason": "RDM ( Gracz: LIL PATRI ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:11000014515512d",
+            "ip:83.28.220.242"
+        ],
+        "expire": 1629893604,
+        "banid": 33
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "HUBCIO",
+        "reason": "Cheaty ( Gracz: HUBCIO ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:110000136a480b8",
+            "ip:31.135.207.32"
+        ],
+        "expire": 10444633200,
+        "banid": 34
+    },
+    {
+        "banner": "yebunny",
+        "name": "Czeko000",
+        "reason": "vdm ( Gracz: Czeko000 ), Zablokowany przez: yebunny",
+        "identifiers": [
+            "steam:110000149a893c0",
+            "ip:109.197.170.30"
+        ],
+        "expire": 1629980784,
+        "banid": 36
+    },
+    {
+        "banner": "yebunny",
+        "name": "brbrn",
+        "reason": "spam report ( Gracz: brbrn ), Zablokowany przez: yebunny",
+        "identifiers": [
+            "steam:11000014259b5f0",
+            "ip:91.221.89.155"
+        ],
+        "expire": 1630327299,
+        "banid": 37
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "brbrn",
+        "reason": "spam report ( Gracz: brbrn ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:11000014259b5f0",
+            "ip:91.221.89.155"
+        ],
+        "expire": 1629895308,
+        "banid": 38
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "grzywaczkacper78",
+        "reason": "niestosowne animacje ( Gracz: grzywaczkacper78 ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:110000149ca3515",
+            "ip:178.235.182.179"
+        ],
+        "expire": 10444633200,
+        "banid": 39
+    },
+    {
+        "banner": "pidar12",
+        "name": "redev20216",
+        "reason": " ( Gracz: redev20216 ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:11000014a014de8",
+            "ip:89.64.53.110"
+        ],
+        "expire": 10444633200,
+        "banid": 41
+    },
+    {
+        "banner": "pidar12",
+        "name": "fafik1232",
+        "reason": " ( Gracz: fafik1232 ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:110000149fb95a8",
+            "ip:185.230.126.6"
+        ],
+        "expire": 10444633200,
+        "banid": 42
+    },
+    {
+        "banner": "pidar12",
+        "name": "Fox....",
+        "reason": " ( Gracz: Fox.... ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:110000116bc8456",
+            "ip:89.64.40.197"
+        ],
+        "expire": 10444633200,
+        "banid": 43
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "Robert Lewandowski",
+        "reason": "MASS RDM ( Gracz: Robert Lewandowski ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:11000014368c179",
+            "ip:194.29.183.34"
+        ],
+        "expire": 1629983165,
+        "banid": 44
+    },
+    {
+        "banner": "SzybkiePalce.SIMBA96",
+        "name": "defijiw911",
+        "reason": " cheater ( Gracz: defijiw911 ), Zablokowany przez: SzybkiePalce.SIMBA96",
+        "identifiers": [
+            "steam:110000149fd7462",
+            "ip:207.244.109.179"
+        ],
+        "expire": 10444633200,
+        "banid": 45
+    },
+    {
+        "banner": "SzybkiePalce.SIMBA96",
+        "name": "Klapek",
+        "reason": " cheater ( Gracz: Klapek ), Zablokowany przez: SzybkiePalce.SIMBA96",
+        "identifiers": [
+            "steam:110000119bfca6a",
+            "ip:89.64.103.132"
+        ],
+        "expire": 10444633200,
+        "banid": 46
+    },
+    {
+        "banner": "SzybkiePalce.SIMBA96",
+        "name": "juzekmen97",
+        "reason": "cheater ( Gracz: juzekmen97 ), Zablokowany przez: SzybkiePalce.SIMBA96",
+        "identifiers": [
+            "steam:11000014090099b",
+            "ip:81.165.140.91"
+        ],
+        "expire": 10444633200,
+        "banid": 47
+    },
+    {
+        "banner": "pidar12",
+        "name": "nie",
+        "reason": " ( Gracz: nie ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:1100001465ba575",
+            "ip:93.105.177.86"
+        ],
+        "expire": 10444633200,
+        "banid": 48
+    },
+    {
+        "banner": "pidar12",
+        "name": "FiXi HardtMann",
+        "reason": " ( Gracz: FiXi HardtMann ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:11000014512f8ed",
+            "ip:95.223.108.105"
+        ],
+        "expire": 10444633200,
+        "banid": 50
+    },
+    {
+        "banner": "SzybkiePalce.SIMBA96",
+        "name": "jebac spoleczne",
+        "reason": " ( Gracz: jebac spoleczne ), Zablokowany przez: SzybkiePalce.SIMBA96",
+        "identifiers": [
+            "steam:110000149f97c7a",
+            "ip:188.147.119.56"
+        ],
+        "expire": 10444633200,
+        "banid": 51
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "pingu",
+        "reason": "LootRP ( Gracz: pingu ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:1100001418090e9",
+            "ip:194.36.19.3"
+        ],
+        "expire": 1629988049,
+        "banid": 52
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "ZrYtA__PsyCHA_ᶠᶸᶜᵏᵧₒ",
+        "reason": "MASS VDM ( Gracz: ZrYtA__PsyCHA_ᶠᶸᶜᵏᵧₒ ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:11000010d208bab",
+            "ip:5.173.200.84"
+        ],
+        "expire": 1629988089,
+        "banid": 53
+    },
+    {
+        "banner": "SzybkiePalce.SIMBA96",
+        "name": "YFL MATIX",
+        "reason": " ( Gracz: YFL MATIX ), Zablokowany przez: SzybkiePalce.SIMBA96",
+        "identifiers": [
+            "steam:110000145055169",
+            "ip:217.96.213.73"
+        ],
+        "expire": 10444633200,
+        "banid": 54
+    },
+    {
+        "banner": "pidar12",
+        "name": "pepkrupepkochoppasjansdziwka",
+        "reason": " ( Gracz: pepkrupepkochoppasjansdziwka ), Zablokowany przez: pidar12",
+        "identifiers": [
+            "steam:110000141320e17",
+            "ip:91.123.188.203"
+        ],
+        "expire": 10444633200,
+        "banid": 55
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "I take off like a rocket",
+        "reason": "RDM NA SZPITALU ( Gracz: I take off like a rocket ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:11000013e0447b7",
+            "ip:83.28.237.219"
+        ],
+        "expire": 1629988864,
+        "banid": 56
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "Stresssik",
+        "reason": "RDM NA SZPITALU ( Gracz: Stresssik ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:1100001452d3c27",
+            "ip:5.173.20.24"
+        ],
+        "expire": 1629988895,
+        "banid": 57
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "Tol Son",
+        "reason": "P-WORD ( Gracz: Tol Son ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:1100001345c39d1",
+            "ip:89.151.34.70"
+        ],
+        "expire": 1630334970,
+        "banid": 58
+    },
+    {
+        "banner": "Twitch tvlulix",
+        "name": "PawsonniX",
+        "reason": "VDM ( Gracz: PawsonniX ), Zablokowany przez: Twitch tvlulix",
+        "identifiers": [
+            "steam:110000112fa0e6b",
+            "ip:109.233.92.77"
+        ],
+        "expire": 1629990168,
+        "banid": 59
+    },
+    {
+        "banner": "Kałach",
+        "name": "chudy",
+        "reason": "nara ( Gracz: chudy ), Zablokowany przez: Kałach",
+        "identifiers": [
+            "steam:110000117633381",
+            "ip:83.23.223.42"
+        ],
+        "expire": 10444633200,
+        "banid": 60
+    }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SInteriorOrderData>
+    <startFrom value="2000" />
+    <filePathHash value="0" />
+    <proxies>
+        <Item>bkr_id1_33_strm_0</Item>
+        <Item>pablito_eb_milo_</Item>
+        <Item>bh1_occl_05</Item>
+        <Item>mz_carpack_milo</Item>
+        <Item>hei_bh1_22_strm_0</Item>
+        <Item>operation_floor</Item>
+        <Item>hei_bh1_rd_strm_5</Item>
+        <Item>room_milo</Item>
+        <Item>cs1_06_strm_0</Item>
+        <Item>cs1_occl_09</Item>
+        <Item>hei_cs1_06_strm_0</Item>
+        <Item>slb2k11_paleto_fire_mlo</Item>
+        <Item>cs1_occl_10</Item>
+        <Item>hei_cs1_05_strm_0</Item>
+        <Item>urgence_milo</Item>
+        <Item>apa_distlodlights_small031</Item>
+        <Item>int_hospb_milo_</Item>
+        <Item>hei_distlodlights_small031</Item>
+        <Item>apa_lodlights_small031</Item>
+        <Item>hei_lodlights_small031</Item>
+        <Item>gabz_pillbox_ext</Item>
+        <Item>gabz_pillbox_milo_</Item>
+        <Item>gabz_pillbox_dlc_milo_</Item>
+        <Item>hei_dt1_06_long_0</Item>
+        <Item>hei_dt1_06_strm_0</Item>
+        <Item>hei_dt1_rd1_long_1</Item>
+        <Item>hei_dt1_occl_07</Item>
+        <Item>hei_dt1_rd1_strm_4</Item>
+        <Item>cs4_09_strm_0</Item>
+        <Item>hei_fwy_04_strm_0</Item>
+        <Item>cs4_roads_critical_2</Item>
+        <Item>lr_cs4_09_strm_0</Item>
+        <Item>lr_cs4_roads_critical_2</Item>
+        <Item>cs4_occl_02</Item>
+        <Item>ult-firedept-3_milo_</Item>
+        <Item>cs4_occl_03</Item>
+        <Item>int_shosp_milo_</Item>
+    </proxies>
+</SInteriorOrderData>
